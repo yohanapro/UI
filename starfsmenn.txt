@@ -1,0 +1,37 @@
+Starfsmenn:
+
+Nafn		:	Jacob Yxa
+Kennitala	:	9900000001
+e-mail		:	jacob.yxa@nanair.is
+Heim.		:	Vei 224 3B, Longyearbyen, Svalbard
+Sími		:	+47 92 09 77 01
+GSM			:	+354 777 1338
+
+Nafn		: 	Nanna Daema
+Kennitala	:	9900000002
+e-mail		: 	nanna.daema@nanair.is
+Heim.		: 	Ivan Starostin st. 109, Barantsburg, Svalbard
+Sími: 		:	+47 92 09 77 02
+GSM: 		:	+354 777 1339
+
+Nafn		: 	Aqqaluk Lynge
+Kennitala	:	9900000004
+e-mail		: 	aqqaluk.lynge@nanair.is
+Heim.		: 	Qattaaq 44, 3905, Nuuk, Greenland
+Sími: 		:	+299 35 24 66
+GSM: 		:	+354 777 1362
+
+Nafn		: 	Nauja Lynge
+Kennitala	:	9900000005
+e-mail		: 	nauja.lynge@nanair.is
+Heim.		: 	Qunguleq 3759, 3905, Nuuk, Greenland
+Sími		: 	+299 31 21 64
+GSM			: 	+354 777 1363
+
+Nafn		: 	André Hjaltalin
+Kennitala	:	9900000008
+e-mail		: 	Andre.hjaltalin@nanair.is
+Heim.		: 	Í Lágni 19, 100, Tórshavn, Faroe Islands
+Sími		: 	+298 661441
+GSM			: 	+354 777 1382
+

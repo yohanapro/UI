@@ -1,0 +1,23 @@
+Yfirmaður á Svalbarða: 
+Nafn		: 	Jan Jacobsen
+Kennitala	:	9900000000
+e-mail		: 	jan.jacobsen@nanair.is
+Heim.		: 	Vei 230 12, Longyearbyen, Svalbard
+Sími		: 	+47 92 09 77 00
+GSM			: 	+354 777 1337
+
+Yfirmaður á Nuuk: 
+Nafn		: 	Minik Wallace
+Kennitala	:	9900000003
+e-mail		: 	minik.wallace@nanair.is
+Heim.		: 	Isaajap Aqqutaa 1, 3900, Nuuk, Greenland
+Sími		: 	+299 34 24 67
+GSM			: 	+354 777 1361
+
+Yfirmaður í Færeyjum: 
+Nafn		: 	Annette Djurhuus
+Kennitala	:	9900000006
+e-mail		: 	annette.djurhuus@nanair.is
+Heim.		: 	Tjarnardeild 8, 100, Tórshavn, Faroe Islands
+Sími		: 	+298 772000
+GSM			: 	+354 777 1381
